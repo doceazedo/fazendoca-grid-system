@@ -16,7 +16,7 @@ For example, a 3x3 house can be saved at coordinates `0;0` on the database, but 
 
 We consider that all buildings occupy a 1x1 space on the grid unless it specifies a custom size.
 
-# TODO 🔮
+## TODO 🔮
 
 In the future, the player will also be able to expand their farm by buying more land. What this means is that if you start with a 32x32 farm, you can add another 32x32 on the X or Y directions.
 
