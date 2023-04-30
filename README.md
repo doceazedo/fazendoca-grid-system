@@ -16,6 +16,12 @@ For example, a 3x3 house can be saved at coordinates `0;0` on the database, but 
 
 We consider that all buildings occupy a 1x1 space on the grid unless it specifies a custom size.
 
+# TODO 🔮
+
+In the future, the player will also be able to expand their farm by buying more land. What this means is that if you start with a 32x32 farm, you can add another 32x32 on the X or Y directions.
+
+This will allow the player to have some funky grid layouts that will need to be handled properly and I don't even check if the building is inside the regular grid yet lol.
+
 ## Testing 🧪
 
 You can run the unit tests using [Vitest](https://github.com/vitest-dev/vitest):
